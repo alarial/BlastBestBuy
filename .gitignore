@@ -1,0 +1,8 @@
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+OutputBuild/
+*.sdf
+Build/
+Plugins/VaRest/Binaries/
